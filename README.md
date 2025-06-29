@@ -1,4 +1,4 @@
-# 📸 Acervo de Fotos - PASCOM PSSMMA
+# 📸 Acervo de Fotos - PASCOM PSMMA
 
 Repositório dedicado à organização, armazenamento e compartilhamento do acervo de fotos da PASCOM da Paróquia Santa Margarida Maria Alacoque
 
