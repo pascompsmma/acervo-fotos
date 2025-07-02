@@ -1,0 +1,52 @@
+/* Carousel styling */
+#introCarousel,
+.carousel-inner,
+.carousel-item,
+.carousel-item.active {
+  height: 100vh;
+}
+
+@media (max-width: 768px) {
+  .carousel-image {
+    height: 60vh; /* menor em celular */
+  }
+}
+
+.carousel-item:nth-child(1) {
+  background-image: url('https://res.cloudinary.com/duo8ru42y/image/upload/v1751395769/dc5ac365-e3cc-4edd-bba8-f7351371051d_dskkgd.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.carousel-item:nth-child(2) {
+  background-image: url('https://res.cloudinary.com/duo8ru42y/image/upload/v1751394130/IMG-20250522-WA0069_scjo6q.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.carousel-item:nth-child(3) {
+  background-image: url('https://res.cloudinary.com/duo8ru42y/image/upload/v1751394527/DSC_0399_jwjjou.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.carousel-item:nth-child(4) {
+  background-image: url('https://res.cloudinary.com/duo8ru42y/image/upload/v1751395121/WhatsApp_Image_2025-07-01_at_15.37.28_nnaue9.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+/* Height for devices larger than 576px */
+@media (min-width: 992px) {
+  #introCarousel {
+    margin-top: -58.59px;
+  }
+}
+
+.navbar .nav-link {
+  color: #fff !important;
+}
