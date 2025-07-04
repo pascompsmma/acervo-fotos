@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "Bem-vindo ao nosso Acervo de Fotos",
+    "descricao": "Um lugarzinho pra cultivar nossas memórias na vida paroquial.",
+    "mask": "rgba(0, 0, 0, 0.6)"
+  },
+  {
+    "titulo": "Momentos que marcam",
+    "descricao": "Veja nossos registros e memórias em álbuns especiais.",
+    "mask": "rgba(0, 0, 0, 0.5)"
+  },
+  {
+    "titulo": "Caminhamos juntos na fé",
+    "descricao": "",
+    "mask": "rgba(0, 0, 0, 0.5)"
+  },
+  {
+    "titulo": "Paróquia Santa Margarida Maria Alacoque",
+    "descricao": "Uma igreja em saída",
+    "mask": "rgba(0, 0, 0, 0.5)"
+  }
+]
