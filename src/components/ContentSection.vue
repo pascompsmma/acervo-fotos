@@ -73,14 +73,7 @@
           <div class="spinner-border text-primary" role="status"></div>
         </div>
 
-        <!-- Todos carregados -->
-        <div
-          v-if="!carregando && albunsVisiveis.length >= albunsFiltrados.length"
-          class="text-muted mt-4"
-        >
-          Todos os álbuns foram carregados. 📸
-        </div>
-      </section>
+     </section>
     </div>
   </main>
 </template>
@@ -160,7 +153,9 @@ export default {
         "Comunidades Missionárias": 'bg-comunidades-missionarias',
         "Festa": 'bg-festa',
         "Festa Social": 'bg-festa-social',
-        "Batismo": 'bg-comunidades-missionarias'
+        "Batismo": 'bg-batismo',
+        "Retiro": 'bg-retiro',
+        "São Francisco": 'bg-sao-francisco'
       };
       return map[tag] || 'bg-secondary';
     },
@@ -199,7 +194,7 @@ export default {
 <style scoped>
 .album-cover {
   width: 100%;
-  height: 250px;
+  height: 280px;
   object-fit: cover;
   object-position: center;
   border-top-left-radius: 0.5rem;
@@ -242,5 +237,13 @@ export default {
 
 .bg-festa-social{
   background-color: #000000;
+}
+
+.bg-retiro{
+  background-color: #6c027a;
+}
+
+.bg-sao-francisco{
+  background-color: #420707;
 }
 </style>
