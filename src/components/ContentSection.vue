@@ -28,6 +28,14 @@
           </div>
         </div>
 
+        <div v-if="albuns.length" class="text-muted mb-4">
+          <p v-if="albunsFiltrados.length > 0">
+            Encontrado {{ albunsFiltrados.length }} {{ albunsFiltrados.length === 1 ? 'álbum disponível' : 'álbuns disponíveis' }}          </p>
+          <p v-else class="text-danger fw-bold">
+            Nenhum álbum encontrado com os filtros aplicados.
+          </p>
+        </div>
+
         <!-- Álbuns -->
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
           <div class="col" v-for="(album, index) in albunsVisiveis" :key="index">
@@ -155,7 +163,8 @@ export default {
         "Festa Social": 'bg-festa-social',
         "Batismo": 'bg-batismo',
         "Retiro": 'bg-retiro',
-        "São Francisco": 'bg-sao-francisco'
+        "São Francisco": 'bg-sao-francisco',
+        "Encontro Diocesano": 'bg-encontro-diocesano',
       };
       return map[tag] || 'bg-secondary';
     },
@@ -245,5 +254,9 @@ export default {
 
 .bg-sao-francisco{
   background-color: #420707;
+}
+
+.bg-encontro-diocesano{
+  background-color: #008b8b
 }
 </style>

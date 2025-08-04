@@ -173,7 +173,71 @@
         "titulo":"Festa de 25 anos da Comunidade Santo Expedito",
         "capa": "https://res.cloudinary.com/duo8ru42y/image/upload/v1753060390/IMG_20250719_210740_s7umm1_gakvmn.jpg",
         "tags": ["Santo Expedito"]
+    },
+    {        
+        "link":"https://photos.app.goo.gl/CrqGde4Lt7mweVGJ7",
+        "data":"21/07/2025",
+        "titulo":"1º Dia do Cerco de Jericó - Pe. Vitor Kano",
+        "capa": "https://res.cloudinary.com/duo8ru42y/image/upload/v1753198707/IMG_20250721_213518_enwsws.jpg",
+        "tags": ["Santo Expedito"]
+    },
+    {
+        "link":"https://photos.app.goo.gl/wYPCPhQjngPSxjL5A",
+        "data":"22/07/2025",
+        "titulo":"2º Dia do Cerco de Jericó - Pe. Aloísio de Melo",
+        "capa": "https://res.cloudinary.com/duo8ru42y/image/upload/v1753251385/IMG_20250722_222740_fowdyw.jpg",
+        "tags": ["Santo Expedito"]
+    },
+    {
+        "link":"https://photos.app.goo.gl/ZKcCgE7P4B1ZAHdN8",
+        "data":"23/07/2025",
+        "titulo":"3º Dia do Cerco de Jericó - Pe. Lídio",
+        "capa": "https://res.cloudinary.com/duo8ru42y/image/upload/v1753416893/WhatsApp_Image_2025-07-24_at_00.17.58_qridyy.jpg",
+        "tags": ["Santo Expedito"]
+    },
+    {
+        "link":"https://photos.app.goo.gl/ZKcCgE7P4B1ZAHdN8",
+        "data":"24/07/2025",
+        "titulo":"4º Dia do Cerco de Jericó - Pe. Arthur",
+        "capa": "https://res.cloudinary.com/duo8ru42y/image/upload/v1753419940/IMG-20250724-WA0192_uhnfcz.jpg",
+        "tags": ["Santo Expedito"]
+    },
+    {
+        "link":"https://photos.app.goo.gl/Bqfytk6DzDmkmgga8",
+        "data":"25/07/2025",
+        "titulo":"5º Dia do Cerco de Jericó - Pe. Fábio Luiz",
+        "capa": "https://res.cloudinary.com/duo8ru42y/image/upload/v1753590127/IMG_20250725_214347_wpuyug.jpg",
+        "tags": ["Santo Expedito"]
+    },
+    {
+        "link":"https://photos.app.goo.gl/kCKonnZQ4uUNw1ZR8",
+        "data":"26/07/2025",
+        "titulo":"6º Dia do Cerco de Jericó - Pe. Rosivaldo",
+        "capa": "https://res.cloudinary.com/duo8ru42y/image/upload/v1753674481/IMG-20250727-WA0039_ewsjkl.jpg",
+        "tags": ["Santo Expedito"]
+    },
+    {
+        "link":"https://photos.app.goo.gl/T66LT3PK1J1t3hVYA",
+        "data":"26/07/2025",
+        "titulo":"Encontro diocesano da Pastoral da Criança",
+        "capa": "https://res.cloudinary.com/duo8ru42y/image/upload/v1753675447/0018_ubat7v.jpg",
+        "tags": ["Santa Margarida", "Encontro Diocesano"]
+    },
+        {
+        "link":"https://photos.app.goo.gl/pZtxfptsmicmPFMk8",
+        "data":"27/07/2025",
+        "titulo":"7º Dia do Cerco de Jericó - Pe. Elenilson",
+        "capa": "https://res.cloudinary.com/duo8ru42y/image/upload/v1753761137/fe36a489-41f2-4c0d-9d65-4e7b99a2b672_zgzgpx.jpg",
+        "tags": ["Santo Expedito"]
+    },
+        {
+        "link":"https://photos.app.goo.gl/NTT37EGhuVbCtoTUA",
+        "data":"12/07/2025",
+        "titulo":"Jantar Dançante - Pastoral Familiar",
+        "capa": "https://res.cloudinary.com/duo8ru42y/image/upload/v1754276527/IMG-20250713-WA0101_r1gwie.jpg",
+        "tags": ["Santa Margarida", "Festa"]
     }
+
 
 
 ]
