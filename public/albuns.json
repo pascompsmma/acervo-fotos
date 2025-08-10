@@ -196,7 +196,7 @@
         "tags": ["Santo Expedito"]
     },
     {
-        "link":"https://photos.app.goo.gl/ZKcCgE7P4B1ZAHdN8",
+        "link":"https://photos.app.goo.gl/UwP5ZPK6FznWUcoL8",
         "data":"24/07/2025",
         "titulo":"4º Dia do Cerco de Jericó - Pe. Arthur",
         "capa": "https://res.cloudinary.com/duo8ru42y/image/upload/v1753419940/IMG-20250724-WA0192_uhnfcz.jpg",
@@ -236,7 +236,43 @@
         "titulo":"Jantar Dançante - Pastoral Familiar",
         "capa": "https://res.cloudinary.com/duo8ru42y/image/upload/v1754276527/IMG-20250713-WA0101_r1gwie.jpg",
         "tags": ["Santa Margarida", "Festa"]
+    },
+    {
+        "link":"https://photos.app.goo.gl/oK4CY2T1rTkpsNYc8",
+        "data":"03/08/2025",
+        "titulo":"Festa Social de Santo Expedito",
+        "capa": "https://res.cloudinary.com/duo8ru42y/image/upload/v1754661708/IMG-20250804-WA0007_ezynpi.jpg",
+        "tags": ["Santo Expedito", "Festa Social"]
+    },
+    {
+        "link":"https://photos.app.goo.gl/nT96EihPuzvruis98",
+        "data":"09/08/2025",
+        "titulo":"19º Domingo do Tempo Comum (Dia dos Pais)",
+        "capa": "https://res.cloudinary.com/duo8ru42y/image/upload/v1754797934/IMG_20250809_191237_bib2wi.jpg",
+        "tags": ["Santo Expedito"]
+    },
+    {
+        "link":"https://photos.app.goo.gl/942fv6ikXai23cnQ9",
+        "data":"10/08/2025",
+        "titulo":"19º Domingo do Tempo Comum (Dia dos Pais)",
+        "capa":"https://res.cloudinary.com/duo8ru42y/image/upload/v1754845367/IMG-20250810-WA0081_w2i9un.jpg",
+        "tags":["Santa Rita"]
+    },
+     {
+        "link":"https://photos.app.goo.gl/QtrWriuvfd3FwzU9A",
+        "data":"10/08/2025",
+        "titulo":"19º Domingo do Tempo Comum (Dia dos Pais)",
+        "capa":"https://res.cloudinary.com/duo8ru42y/image/upload/v1754846369/IMG_0817_dnig4m.jpg",
+        "tags":["São Francisco"]
+    },
+     {
+        "link":"https://photos.app.goo.gl/g3xUANYbUDP85Um27",
+        "data":"10/08/2025",
+        "titulo":"19º Domingo do Tempo Comum (Dia dos Pais)",
+        "capa":"https://res.cloudinary.com/duo8ru42y/image/upload/v1754847953/IMG_20250810_101105_pfm73x.jpg",
+        "tags":["Santa Margarida"]
     }
+
 
 
 
